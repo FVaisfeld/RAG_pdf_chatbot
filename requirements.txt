@@ -3,3 +3,9 @@ openai
 llama-index
 nltk
 pypdf
+python-dotenv
+trulens_eval
+typing-extensions
+litellm
+transformers
+boto3

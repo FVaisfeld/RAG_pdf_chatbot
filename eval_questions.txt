@@ -1,0 +1,9 @@
+What is a svm? 
+Which model is resistant to outliers?
+What should I do, if the model is overfitting?
+What if the data has no label? 
+How can I test, if the data is noisy?
+How do I chose the best model for the underlying data?
+How do I test the performance of a model?  
+How do I interprete the decision of a model? 
+What is reinforcement learning? 
