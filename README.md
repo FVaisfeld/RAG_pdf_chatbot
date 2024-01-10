@@ -23,4 +23,5 @@ You can get your own OpenAI API key by following the following instructions:
 ## Try out the app
 
 Once the app is loaded, enter your question about the Streamlit library and wait for a response.
-# RAG_pdf_chatbot
+
+## In the pipeline notebook file you can evaluate the RAG triad via Truelens and try differnt retrieval augment methods out
